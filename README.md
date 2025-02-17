@@ -88,5 +88,5 @@ Example request body:
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Author
-Created by [Your Name](https://github.com/lenardjombo).
+Created by [Jombo](https://github.com/lenardjombo).
 
