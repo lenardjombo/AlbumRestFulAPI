@@ -15,8 +15,8 @@ Ensure you have the following installed before running the project:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/album-api.git
-   cd album-api
+   git clone https://github.com/lenardjombo/AlbumRestFulAPI.git
+   cd AlbumRestFulAPI
    ```
 2. Install dependencies:
    ```sh
@@ -88,5 +88,5 @@ Example request body:
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Author
-Created by [Your Name](https://github.com/yourusername).
+Created by [Your Name](https://github.com/lenardjombo).
 
